@@ -3,119 +3,46 @@
     <head>
         <meta charset="UTF-8">
         <title>detailyang</title>
+        <style type="text/css">
+            #a:link    { text-decoration: none; color: blue; }
+            #a:visited { text-decoration: none; color: blue; }
+            a:hover   { text-decoration: underline; color: red; }
+            a:active  { text-decoration: underline; background-color: #FFD0D0; }
+            span.top-link {
+                font-size: 70%;
+            }
+            pre {
+                margin-left: 8px;
+                font-family: monospace, courier;
+            }
+            span {
+                font-weight: bold;
+            }
+            h2 {
+                color: #A00000;
+                padding-top: 15px;
+                font-size: 100%;
+                font-weight: bold;
+            }
+            span.footline {
+                font-weight: bold;
+            }
+        </style>
     </head>
     <body>
-        Go to sleep;<br/>
-        
-        My Repositories (From Github Statistics)
-        <ul>
-            <li>
-                <a href="https://github.com/nginx-lover">nginx modules</a>
-                some nginx modules to add nginx feature
-                <ul>
-                    <li>
-                        <a href="https://github.com/nginx-lover/ngx_http_qrcode_module">ngx_http_qrcode_module</a>
-                        ngx_http_qrcode_module is a an addon for Nginx to generate and serve QR code
-                    </li>
-                    <li>
-                        <a href="https://github.com/nginx-lover/ngx_http_cors_filter">ngx_http_cors_filter</a>
-                        ngx_http_cors_filter_module is a an addon for nginx to dynamic generate cors(Cross-Origin Resource Sharing) 
-                    </li>
-                    <li>
-                        <a href="https://github.com/nginx-lover/ngx_http_updown">ngx_http_updown</a>
-                        ngx_http_updown_module is a an addon for nginx to gracefully up or down
-                    </li>
-                    <li>
-                        <a href="https://github.com/nginx-lover/ngx_http_barcode">ngx_http_barcode</a>
-                        ngx_http_barcode_module is a an addon for nginx to generate barcode
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="https://github.com/cas-x">CAS</a>
-                center authorization server for enterprise which can support ldap and it have used to integrate gitlab、jira、confluence、jenkins、gerrit, vpn device, phabricator, grafana and so on.
-                <ul>
-                    <li>
-                        <a href="https://github.com/cas-x/cas-server">cas-server</a>
-                        center authorization server
-                    </li>
-                    <li>
-                        <a href="https://github.com/cas-x/cas-ldap">cas-ldap</a>
-                        A component for support ldap protocol integrated with CAS
-                    </li>
-                    <li>
-                        <a href="https://github.com/cas-x/cas-exmailqq">cas-exmailqq</a>
-                        A component for support exmailqq integrated with CAS
-                    </li>
-                    <li>
-                        <a href="https://github.com/cas-x/cas-exwechat">cas-exwechat</a>
-                        A component for support wechat adressbook integrated with CAS
-                    </li>
-                    <li>
-                        <a href="https://github.com/cas-x/cas-nginx_http_auth_module">ngx_http_cas_module</a>
-                        A component for nginx module integrated with CAS
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/id-generator">id-generator</a>
-                distributed id generation system fork by redis 3.0.2 which support snowflake objectid serialid and sequence number
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/zoneproxy">zoneproxy</a>
-                zoneproxy let you easy to access different network zone (tcpproxy+httpproxy+httpserver+socks5)
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/pre-commit-shell">pre-commit-shell</a>
-                 pre commit wrapper shellcheck
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/wireshark-nsq">wireshark-nsq(departed)</a>
-                 nsq protocol dissector for wireshark
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/luaproxy">luraproxy(departed)</a>
-                https or http proxy which use lua script to control http traffic 
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/logger">logger(departed)</a>
-                rsyslog logger implemented by golang to support high available log
-            </li>
-            <li>
-                <a href="https://github.com/detailyang/hikarian">hikarian(departed)</a>
-                tcp + tunnel + socks5 or tcp over icmp 
-            </li>
-        </ul>
-        Repositories I Contribute To (From Github Statistics)
-        <ul>
-            <li>
-                <a href="https://github.com/alibaba/tengine/commits?author=detailyang">Tengine</a>
-                A distribution of Nginx with some advanced features
-            </li>
-            <li>
-                <a href="https://github.com/fisherman/fisherman/commits?author=detailyang">Fisherman</a>
-                A plugin manager for fish
-            </li>
-            <li>
-                <a href="https://github.com/openresty/test-nginx/commits?author=detailyang">Openresty/Test-Nginx</a>
-                Data-driven test scaffold for Nginx C module and OpenResty Lua library development
-            </li>
-            <li>
-                <a href="https://github.com/fzzy/radix/commits?author=detailyang">Radix</a>
-                Redis client for Go
-            </li>
-            <li>
-                <a href="https://github.com/tj/consolidate.js/commits?author=detailyang">consolidate.js</a>
-                Template engine consolidation library for node.js
-            </li>
-            <li>
-                <a href="https://github.com/nodejs/nodejs.org/commits?author=detailyang">nodejs/nodejs.org</a>
-                The Node.js website
-            </li>
-            <li>
-                <a href="https://github.com/haiwen/seafile/commits?author=detailyang">seafile</a>
-                File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance. http://seafile.com/
-            </li>
-        </ul>
+        <pre><span class="headline">detailyang(4)             Yang Bingwu's Manual       detailyang(4)</span></pre>
+        <h2>
+            <a id="NAME", href="#NAME"></a>
+            NAME &nbsp; &nbsp; &nbsp; &nbsp;
+            <a href="#top_of_page"><span class="top-link">top</span></a>
+        </h2>
+        <pre>       detailyang - an endless and fucking the boring life engineer</pre>
+        <h2><a id="DESCRIPTION" href="#DESCRIPTION"></a>DESCRIPTION  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
+        <pre>       This guy enjoys hack engine.</pre>
+        <h2><a id="PROJECTS" href="#PROJECTS"></a>PROJECTS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
+        <h2><a id="COLOPHON" href="#COLOPHON"></a>COLOPHON  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
+        <pre>       This page is part of release 0.1.0 of the detailyang project.
+        <br/>       <span class="footline">detailyang(4)                            1993-06-01                        detailyang(4)</span>
+        </pre>
     </body>
 </html>
