@@ -1,3 +1,6 @@
-index.html: projects.json
-	python make.py  > index.html
-	
+index.html: projects.json contributes.json
+	python3 make.py  > index.html
+
+clean:
+	rm -rf index.html
+

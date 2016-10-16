@@ -38,11 +38,13 @@
         </h2>
         <pre>       detailyang - an endless and fucking the boring life engineer</pre>
         <h2><a id="DESCRIPTION" href="#DESCRIPTION"></a>DESCRIPTION  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
-        <pre>       This guy enjoys hack engine.</pre>
+        <pre>       This guy enjoys hack engine</pre>
         <h2><a id="PROJECTS" href="#PROJECTS"></a>PROJECTS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <pre>       ###PROJECTS###
         </pre>
         <h2><a id="CONTRIBUTES" href="#CONTRIBUTES"></a>CONTRIBUTES  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
+        <pre>       ###CONTRIBUTES###
+        </pre>
         <h2><a id="COLOPHON" href="#COLOPHON"></a>COLOPHON  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <pre>       This page is part of release 0.1.0 of the detailyang project.
         <br/>       <span class="footline">detailyang(4)                            1993-06-01                        detailyang(4)</span>

@@ -8,8 +8,14 @@ with open('./projects.json') as f:
     repos = map(toLink, repos)
     projects = "\r\n       ".join(repos)
 
-with open('./index.html.tpl', 'rw') as f:
+with open('./contributes.json') as f:
+    repos = json.load(f)
+    repos = map(toLink, repos)
+    contributes = "\r\n       ".join(repos)
+
+with open('./index.html.tpl', 'r') as f:
     html = f.read()
     html = html.replace('###PROJECTS###', projects)
+    html = html.replace('###CONTRIBUTES###', contributes)
     print(html)
 
