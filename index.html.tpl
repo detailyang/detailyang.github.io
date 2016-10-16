@@ -40,19 +40,7 @@
         <h2><a id="DESCRIPTION" href="#DESCRIPTION"></a>DESCRIPTION  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <pre>       This guy enjoys hack engine.</pre>
         <h2><a id="PROJECTS" href="#PROJECTS"></a>PROJECTS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
-        <pre>       <a href="https://api.github.com/repos/cas-x/cas-ldap">cas-ldap</a>: A component for support ldap protocol integrated with CAS
-       <a href="https://api.github.com/repos/1v2/bootstrap">bootstrap</a>: life bootstrap :smile:
-       <a href="https://api.github.com/repos/cas-x/cas-doc">cas-doc</a>: None
-       <a href="https://api.github.com/repos/cas-x/cas-exmailqq">cas-exmailqq</a>: A component for support exmailqq integrated with CAS
-       <a href="https://api.github.com/repos/cas-x/cas-exwechat">cas-exwechat</a>: A component for support wechat adressbook integrated with CAS
-       <a href="https://api.github.com/repos/cas-x/cas-gitlab">cas-gitlab</a>: A component for support gitlab-ce integrated with CAS 
-       <a href="https://api.github.com/repos/1v2/logo">logo</a>: 1v2 logo
-       <a href="https://api.github.com/repos/cas-x/cas-logo">cas-logo</a>: cas logo
-       <a href="https://api.github.com/repos/cas-x/cas-ssh-auth-server">cas-ssh-auth-server</a>: A component for support sshd auth integrated with CAS
-       <a href="https://api.github.com/repos/cas-x/cas-nginx_http_ssl_auth_module">cas-nginx_http_ssl_auth_module</a>: A component for nginx http auth for ssl client module integrated with CAS
-       <a href="https://api.github.com/repos/cas-x/lua-resty-cas">lua-resty-cas</a>: A component for nginx access phase module integrated with CAS
-       <a href="https://api.github.com/repos/cas-x/cas-server">cas-server</a>: :beers:  center authorization server for enterprise
-       <a href="https://api.github.com/repos/cas-x/cas-nginx_http_auth_module">cas-nginx_http_auth_module</a>: A component for nginx http basic auth module integrated with CAS
+        <pre>       ###PROJECTS###
         </pre>
         <h2><a id="CONTRIBUTES" href="#CONTRIBUTES"></a>CONTRIBUTES  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <h2><a id="COLOPHON" href="#COLOPHON"></a>COLOPHON  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
@@ -61,4 +49,3 @@
         </pre>
     </body>
 </html>
-
