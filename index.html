@@ -30,6 +30,7 @@
         </style>
     </head>
     <body>
+        <div class="page-top"><a id="top_of_page"></a></div>
         <pre><span class="headline">detailyang(4)             Yang Bingwu's Manual       detailyang(4)</span></pre>
         <h2>
             <a id="NAME", href="#NAME"></a>
