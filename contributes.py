@@ -15,6 +15,7 @@ repos = '''
   nginx-location-match-visible 11
   lua-resty-socks5-server 6
   pre-commit-shell 10
+  openresty/lua-nginx-module 3698
   awesome-cheatsheet 2,774
   sindresorhus/awesome 44,584
   tiimgreen/github-cheat-sheet 20,048
