@@ -42,7 +42,8 @@
         <pre>       This guy enjoys hack engine</pre>
         <h2><a id="TALKS" href="#TALKS"></a>TALKS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <pre>        <a href="http://www.slideshare.net/yangbingwu/a-little-waf">A Little WAF</a>
-        <a href="http://www.slideshare.net/yangbingwu/a-little-nginx">A Little Nginx</a></pre>
+        <a href="http://www.slideshare.net/yangbingwu/a-little-nginx">A Little Nginx</a>
+        <a href="http://www.slideshare.net/yangbingwu/a-little-systemtap">A Little Systemtap</a></pre>
         <h2><a id="POSTS" href="#POSTS"></a>POSTS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
         <pre>        <a href="https://github.com/detailyang/ybw/blob/master/posts/how-can-i-debug-php-coredump.md">how-can-i-debug-php-coredump</a></pre>
         <h2><a id="PROJECTS" href="#PROJECTS"></a>PROJECTS  &nbsp; &nbsp; &nbsp; &nbsp; <a href="#top_of_page"><span class="top-link">top</span></a></h2>
