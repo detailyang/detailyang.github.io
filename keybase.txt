@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/detailyang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://detailyang.github.io
+  * I am detailyang (https://keybase.io/detailyang) on keybase.
+  * I have a public key with fingerprint BD35 89CF DAC6 804B 831C  662E 1A4E 51D6 5D1D 45B9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101276c330670c90922c0517ecc1ad647a34e2113f846198a815f29d3cd01d262720a",
+      "fingerprint": "bd3589cfdac6804b831c662e1a4e51d65d1d45b9",
+      "host": "keybase.io",
+      "key_id": "1a4e51d65d1d45b9",
+      "kid": "01017029a9e770519c1fad7deebc2494e66b55cd2ee42bc17e9b70379d184093f8310a",
+      "uid": "9d4296195788f6c30f9fa75480bd4619",
+      "username": "detailyang"
+    },
+    "service": {
+      "hostname": "detailyang.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501730490,
+  "expire_in": 157680000,
+  "prev": "fe412da14ba46a1daba2a35502ca47a122674e41eac2122e61500b7b99be689a",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ9TFVlHMcvIvGSFLIgTVA76UphdJ7zfq7N8SItWgkyYqDB3XPOeS6c
+uNx7uS8EXOkKSCJNWxrMis0BpWsgiTi8GIVA0gYZeA2WQhOuJVYqdpvLQqTnUK0/
+6vnn7Hn2/X3O9/t9ni/CA3VhAU9s3zGRF5vaEzDS3+LU5VY3nnURkkUpJ/Quoggt
+fZBJQXaHoUhVCD1BAhJQPCfTNMnxpCySIkXJJAt4JMsAKhzDQ5pBFAC0UWA4IApQ
+AKyREhVaVkigUBzFUyQk4gmjai5ANqtNNTswVlJoVhBlowJlTiAZSaCBzHEUApBB
+LFA4VgEKw0oiHiy02LUJbE6CdpSgWvAZ3hiW7P2P/l/fPEmJUEQ8j/2KMjBChVcQ
+kmSKERnEcRLLygqFEENJMs4jSjxJ86ICBIYUcRoaLPl2LuFEhaFEHI/lBcGI2yCN
+ohHyLCOQkqLF1oR2ZDPDYoTVCnJA1VQOzQVEZTyBz0tVGWnValn+o0koUB2FTumv
+ZFabxWGRLSasKHQ4rHa9RnCUW7WR15Fk+BtmkFSzghvFE6XIZlctZkIPsFJ2qBod
+sDg9TTIiGU+gMqtqQwZVU7A8bhsv7T+oFCONiAGUAgEjQYaDQIESpCDNsiQlQ3y1
+gKI4nsEaBGUKbxCHyaTES6IoIU4QtYLsqMRswWwB+4QFmGlXC8zQ4bQhonKg/9Xl
+uoAw3UNBy7SnpgsLjfjnAXbFPLqY63tGdE3k3lpMPN3e1YvebGgem+lclvRLT8Ux
+98b8Lt9+vW+crJIo9psfc9GNyvqns3/KX5MVt3sYREff+/aTiA/V4CR44u0v7+hT
+NlZWr/30wtZrC3u8u9LZoXrP/skzG1CMHLfbb9gZ3juYlzyX8uCPI7UvXXzRuK5j
+x/LmDvf5UfedFUzfoSpf6Up/WtIPK6IIKeliak3qwrtKSOPjN9OIaSExOHNP5lMT
+VgsYqW6rDvTmK+aOS7rtddKqSjbjd+r52N6K9W85N1ly7J6DQaG7go6eGWjfMr/6
+kdjI4MyPWt9pg+dG7xYeOOq6HjXZ5C3bVnth9sj9mbmp8YaqVcfdWb7F0y6/MHVl
+c+v33Z6UqfRI25Xvgn5tpfdebhuh37uZXBxeZgo6vKzl4+idt+I68lTTSMj57tik
+tePtAWNMavr6F3LfeDhlaMs5d//nB37bEJ4TUzI4CSpOpGTfXqN/0HTq6t7Ay50t
+ARGDdTP325mJuq9dY013P5sebnk/sXf2mKfPq+/Lu3TV4w98luMHuv0Vdc2+G6Z7
+UdcaT9YshJwKDKkVRhz1ea1dA1R0TOKiN9g9f3saqa+NnwwtbRh6UkpTS7KGrrfB
+l8tnH7NlTH/V+dyhcDYno3XTvoR1W7011lH/fFnP4ePZxR/w235O9p99ZWx6IXJz
+ydzq4YNFbStHPc59fwLv88id
+=fmbC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/detailyang
+
+==================================================================
